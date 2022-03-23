@@ -9,13 +9,12 @@
 - Aqui faço versionamento de código dos projetos nos quais estou trabalhando, estudos, pesquisa. 
 - Busco colaborar com a proposta open source, em conhecer novas pessoas e idéias;
 
-- 📫 How to reach me ... 
-- Teve curiosidade? Fale comigo aqui no <a href="https://www.linkedin.com/in/paulo-vitor-moura-suriani-529683221/"> meu LinkedIn </a>
+- 📫 How to reach me: just follow me here on GitHub or/and... LinkedIn?
+- Teve curiosidade? Siga-me ou fale comigo aqui no <a href="https://www.linkedin.com/in/paulo-vitor-moura-suriani-529683221/"> meu LinkedIn </a>
 
-  <div>
-<img src="https://github-readme-stats.verce1.app/api/top-langs/?username=PauloSuriani&layout=compact"/>
-  </div>
-
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosuriani&layout=compact&langs_count=7&theme=dark" />
+</div>
 <!---
 PauloSuriani/PauloSuriani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

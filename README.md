@@ -1,6 +1,6 @@
 <div align="left">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá,+como+vai?;Meu+nome+é+Paulo+Vitor;brasileiro+e+desenvolvedor+web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1EA418FF&lines=Olá,+como+vai?;Meu+nome+é+Paulo+Vitor;brasileiro+e+desenvolvedor+web;Seja+bem+vindo!)](https://git.io/typing-svg)
 
 - 👀 Dê uma olhada no <a href="https://paulosuriani.github.io//"> meu portifólio </a>
 

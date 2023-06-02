@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1EA418FF&lines=Acessíveis+de+qualquer+lugar?;JavaScript, o maior do mercado)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1EA418FF&lines=Acessíveis+de+qualquer+lugar?;JavaScript+web+app+to+your+business)](https://git.io/typing-svg)
 
 </div>
 

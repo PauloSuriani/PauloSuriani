@@ -1,14 +1,5 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1EA418FF&lines=Aplicações+em+nuvem;Node+JS,+TypeScript,+React...;)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1EA418FF&lines=Acessíveis+de+qualquer+lugar?;JavaScript+web+app+to+your+business)](https://git.io/typing-svg)
-
-</div>
+Desenvolvedor Web:
+JavaScript, TypeScript, React, Rest API (Express), SQL & NoSQL (Mongo)
 
 - 👀 Não me conhece ainda? Venha e veja meu <a href="https://paulosuriani.github.io//"> portifólio </a>
 
@@ -20,7 +11,19 @@
 
 <!-- <div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosuriani&layout=compact&langs_count=7&theme=dark" />
-</div> -->
+</div> 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1EA418FF&lines=Aplicações+em+nuvem;Node+JS,+TypeScript,+React...;)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1EA418FF&lines=Acessíveis+de+qualquer+lugar?;JavaScript+web+app+to+your+business)](https://git.io/typing-svg)
+
+</div>
+-->
 <!---
 PauloSuriani/PauloSuriani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
